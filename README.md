@@ -1,6 +1,6 @@
 # Photo_Gallery
-Galeria de fotos 
-
+![](docs/swiper_gallery.png)
+![](docs/photos_panel.png)
 
 # Installation
 1. navigate to the project folder
